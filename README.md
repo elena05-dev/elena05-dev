@@ -58,7 +58,7 @@ _Tech:_ React (Vite), React Hook Form & Yup, Firebase (Authentication, Realtime 
 **5.Travellers App** [Live Demo](https://travellers-app-frontend.vercel.app/)
 Travellers App — a collaborative educational project.
 A multi-page travel application where users can read and share travel stories, manage profiles, and save favorites. Implemented as an MVP with planned feature expansion.
-\_Tech:\_Next.js, TypeScript, REST API
+_Tech:_ Next.js, TypeScript, REST API
 
 ### 🎓 Education
 
