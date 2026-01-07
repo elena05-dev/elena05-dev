@@ -1,30 +1,18 @@
-# Elena Polyakova
+# Hello, I'm Elena Polyakova
 
 ## Junior Fullstack Developer
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elena05-dev&show_icons=true&theme=radical)](https://github.com/elena05-dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elena05-dev&layout=compact&theme=radical)](https://github.com/elena05-dev)
-
 ---
 
-### 📫 Contact
+## 🛠 Tech Stack
 
-- Email: [epolyk1970@gmail.com](mailto:epolyk1970@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/elena-polyakova-5a2196264)
-- [GitHub](https://github.com/elena05-dev)
-- [Telegram](https://t.me/Elena_Poliak)
-- Location: Afula, Israel
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb" />
 
----
+<br />
 
-### 💻 Tech Skills
-
-- HTML, CSS, JavaScript
-- React, Next.js, Node.js
-- MongoDB, REST API, Cloudinary
-- Swagger, OpenAPI
-
----
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" width="36" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openapiinitiative.svg" width="36" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" width="36" />
 
 ### 🌱 Soft Skills
 
@@ -39,15 +27,19 @@
 
 **1. GreenHarvest** — [Live Demo](https://elena05-dev.github.io/team-project/)  
 Responsive website with contact form, product filtering, sorting, social media sharing, scroll animations, and performance optimization.  
-_Tech Stack:_ HTML, Vite, Pagination Tools: VSCode, Trello, Figma, Git/GitHub  
-_Role:_ Developer
+_Tech:_ HTML, Vite, Pagination Tools: VSCode, Trello, Figma, Git/GitHub
 
 **2. ArtistsHub** — [Live Demo](https://elena05-dev.github.io/script-ninjas-project/)  
 CRUD functionality, search by title, category/tag filtering, rating/like system, smooth pagination with 'Load More' button.  
-_Tech Stack:_ HTML, CSS, JavaScript, Swiper, Axios, Pagination, VSCode, Trello, Figma, Git/GitHub  
-_Role:_ Front-end Developer
+_Tech:_ HTML, CSS, JavaScript, Swiper, Axios, Pagination, VSCode, Trello, Figma, Git/GitHub, REST API
 
----
+**3.Rental Car Platform** [Live Demo](https://rental-car-dun-kappa.vercel.app/)
+Car Rental Platform RentalCar is a modern car rental web application that allows users to effortlessly browse, filter, and book vehicles online. Designed with a focus on user experience, it combines sleek design with robust functionality.
+_Tech:_ React, Node.js, Express, MongoDB
+
+**4.LearnLingo** [Live Demo](https://learn-lingo-wvz2.vercel.app/)
+Online Language Tutors. LearnLingo is a web application for a company that offers online language lessons. The app allows users to find tutors based on different criteria, view their profiles, and add favorite tutors to a private “Favorites” page.
+_Tech:_ React (Vite), React Hook Form & Yup, Firebase (Authentication, Realtime Database), CSS Modules, React Icons, React Router DOM
 
 ### 🎓 Education
 
