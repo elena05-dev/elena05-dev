@@ -8,11 +8,11 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb" />
 
-<br />
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" width="36" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openapiinitiative.svg" width="36" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" width="36" />
+<div>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openapiinitiative.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" width="36" />
+</div>
 
 ### 🌱 Soft Skills
 
