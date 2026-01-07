@@ -55,7 +55,7 @@ _Tech:_ React, Node.js, Express, MongoDB
 Online Language Tutors. LearnLingo is a web application for a company that offers online language lessons. The app allows users to find tutors based on different criteria, view their profiles, and add favorite tutors to a private “Favorites” page.
 _Tech:_ React (Vite), React Hook Form & Yup, Firebase (Authentication, Realtime Database), CSS Modules, React Icons, React Router DOM
 
-**5.** [Live Demo](https://travellers-app-frontend.vercel.app/)
+**5.Travellers App** [Live Demo](https://travellers-app-frontend.vercel.app/)
 Travellers App — a collaborative educational project.
 A multi-page travel application where users can read and share travel stories, manage profiles, and save favorites. Implemented as an MVP with planned feature expansion.
 \_Tech:\_Next.js, TypeScript, REST API
