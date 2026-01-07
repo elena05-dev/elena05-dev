@@ -1,6 +1,20 @@
 # Hello, I'm Elena Polyakova
 
-## Junior Fullstack Developer
+## Fullstack Developer
+
+---
+
+<p align="center">
+  <a href="mailto:elena.epolyk1970@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/elena-polyakova-5a2196264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.google.com/maps/place/Israel" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Israel-2E8B57?style=for-the-badge&logo=google-maps&logoColor=white" />
+  </a>
+</p>
 
 ---
 
